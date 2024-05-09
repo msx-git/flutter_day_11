@@ -2,7 +2,15 @@
 class Assets {
   Assets._();
 
+  static const String iconsCategory = 'assets/icons/category.svg';
+  static const String iconsHome = 'assets/icons/home.svg';
+  static const String iconsPlaylist = 'assets/icons/playlist.svg';
+  static const String iconsUser = 'assets/icons/user.svg';
+  static const String images0 = 'assets/images/0.png';
+  static const String images1 = 'assets/images/1.png';
+  static const String images2 = 'assets/images/2.png';
+  static const String images3 = 'assets/images/3.png';
+  static const String images4 = 'assets/images/4.png';
   static const String imagesMonkey = 'assets/images/monkey.jpg';
-  static const String imagesTiger = 'assets/images/tiger.jpg';
 
 }

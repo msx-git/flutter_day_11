@@ -80,7 +80,7 @@ class Task3 extends StatelessWidget {
               onTap: () => Navigator.push(
                 context,
                 CupertinoPageRoute(
-                  builder: (context) => Task2_3(),
+                  builder: (context) => Task3_2(),
                 ),
               ),
               child: Container(
